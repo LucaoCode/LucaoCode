@@ -28,15 +28,18 @@
 </p>
 
 ### Main skills:
+![Csharp]((https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=c#&labelColor=0D1117&textColor=0D1117))&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-0D1117?style=for-the-badge&logo=Shell&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Terraform](https://img.shields.io/badge/-terraform-0D1117?style=for-the-badge&logo=terraform&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
 
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117&textColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Amazon Web Service](https://img.shields.io/badge/-amazon_web_service-0D1117?style=for-the-badge&logo=amazon&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 ### Studying in this moment:
